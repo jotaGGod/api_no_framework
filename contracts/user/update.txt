@@ -1,0 +1,15 @@
+request: 
+{
+    "name": "Luiz Ramos Martins Agra Gomes Tavares",
+    "username": "corujao"
+}
+
+response: 
+{
+    "status": ,
+    "details": "User updated successfully",
+    "data": {
+        "name": "Luiz Ramos Martins Agra Gomes Tavares",
+        "username": "corujao"
+    }
+}

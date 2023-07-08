@@ -1,0 +1,15 @@
+request: 
+{
+    "name": "Donald Trump Junior",
+    "username": "guaxininqueimado"
+}
+
+response: 
+{
+    "status": 201,
+    "details": "User created successfully",
+    "data": {
+        "name": "Donald Trump Junior",
+        "username": "guaxininqueimado"
+    }
+}

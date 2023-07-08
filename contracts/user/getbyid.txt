@@ -1,0 +1,12 @@
+request: 
+receive the request users from the url such as: http://localhost:3000/users/d9a996ea-6886-4027-8ec9-bf0ff3112746
+
+
+response: 
+{
+    "status": ,
+    "data": {
+        "name": "Donald Trump Junior",
+        "username": "guaxininqueimado"
+    }
+}
